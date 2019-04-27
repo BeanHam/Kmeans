@@ -7,10 +7,6 @@ from sklearn.metrics import pairwise_distances
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-
-# In[ ]:
-
-
 class Kmeans:
     """K-Means Clustering Algorithm"""
     
