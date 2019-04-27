@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from setuptools import setup
 
 setup(name='kmeans',
@@ -15,4 +9,3 @@ setup(name='kmeans',
       license='MIT',
       packages=['kmeans'],
       zip_safe=False)
-
